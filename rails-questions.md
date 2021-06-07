@@ -27,7 +27,7 @@
 
 
 7. What is the naming convention for generating a Rails model? What is the naming convention for the table that is generated with this command?
-   The naming convention used is snake case and when interacting with the table I believe its pascal case.
+   The naming convention used is pascal case and when interacting with the table I believe its snake case.
 
 
 8. What is the schema file in a Rails application? Can you modify the schema directly? Why or why not?
