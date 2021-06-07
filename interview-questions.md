@@ -28,7 +28,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
   Your answer: An ***object-relational mapping*** is a top layer that allows for interactions between serverside languages and the database itself. It's kind of a middleman that allows server and database to work together as fluently as possible. 
 
   Researched answer:
-  Object-relational-mapping is the idea of being able to write queries like the one above, as well as much more complicated ones, using the object-oriented paradigm of your preferred programming language.
+  Object-relational-mapping is the idea of being able to write queries, as well as much more complicated ones, using the object-oriented paradigm of your preferred programming language.
 
 
 
